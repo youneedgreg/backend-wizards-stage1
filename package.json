@@ -1,0 +1,25 @@
+{
+  "name": "backend-wizards-stage1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youneedgreg/backend-wizards-stage1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youneedgreg/backend-wizards-stage1/issues"
+  },
+  "homepage": "https://github.com/youneedgreg/backend-wizards-stage1#readme",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
